@@ -1,0 +1,57 @@
+*{
+    margin:10px;
+    padding : 10px;
+    box-sizing: border-box;
+}
+.padre{
+
+}
+    .header{
+        background-color:black
+    }
+        .menu{
+            background-color:aquamarine;  
+        }
+            .logo{
+                background-color:darkgreen;
+                width:200px;
+            }
+            .nav{
+                background-color:darkgreen;
+            }
+            .social{
+                background-color:darkgreen;
+            }
+        .texto-principal{
+            background-color: coral;
+        }
+            h1{
+                background-color: gold;
+            }
+
+    .section{
+        background-color: black;
+    }
+
+        .articulos{
+            background-color: blueviolet;
+        }
+            article{
+                background-color: blanchedalmond;
+            }
+        .navegacion{
+            background-color: deeppink;
+        }
+        .aside{
+            background-color:beige; 
+        }
+            .publicidad{
+                background-color: chartreuse;
+            }
+    .footer{
+        background-color: black;
+    }
+        .pie{
+            background-color: darkgoldenrod;
+        }
+
